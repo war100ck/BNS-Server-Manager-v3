@@ -1,10 +1,11 @@
 # B&S-Server-Manager
 
-https://raw.githubusercontent.com/war100ck/BNS-Server-Manager-v03/main/screen/logo.png
+![Logo](https://raw.githubusercontent.com/war100ck/BNS-Server-Manager-v03/main/screen/logo.png)
 
 A powerful GUI tool for managing Blade & Soul game servers with multi-language support and advanced features.
 
-https://raw.githubusercontent.com/war100ck/BNS-Server-Manager-v03/main/screen/bsm.png
+![Screenshot](https://raw.githubusercontent.com/war100ck/BNS-Server-Manager-v03/main/screen/bsm.png)
+
 ---
 
 ## Features
